@@ -26,8 +26,8 @@ I'm passionate about **cybersecurity**, **blockchain**, and building innovative 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
 
 ## 📂 Projects
-- 🔒 [Password Strength Evaluator](https://github.com/vishalshukla/password-evaluator): A C-based tool for evaluating password strength.
-- 🛡️ [IAM Compliance Tool](https://github.com/vishalshukla/iam-compliance): Assessed compliance and integrated solutions.
+- 🔒 [Password Strength Evaluator](https://github.com/vishal-shukla11/Password_Analyzer): A C-based tool for evaluating password strength.
+- 🛡️ [IAM Compliance Tool](https://): Assessed compliance and integrated solutions.
 
 ## 🏆 Achievements
 - 🎖️ Certificate : CompTIA Netwotk+.
@@ -40,9 +40,9 @@ I'm passionate about **cybersecurity**, **blockchain**, and building innovative 
 
 ![Working on Code](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalshukla&show_icons=true&theme=radical)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-shukla11&show_icons=true&theme=radical)
 
-![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalshukla&theme=radical)
+![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal-shukla11&theme=radical)
 
 
 
