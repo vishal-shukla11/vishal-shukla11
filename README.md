@@ -36,7 +36,7 @@ I'm passionate about **cybersecurity**, **blockchain**, and building innovative 
 ## 🌐 Connect with Me
 [![Website](https://img.shields.io/badge/Website-vishal11.tech-blue?style=flat)](https://vishal11.tech)
 [![Email](https://img.shields.io/badge/Email-vishalshukla5312%40gmail.com-red?style=flat)](mailto:vishalshukla5312@gmail.com)
-
+![](https://komarev.com/ghpvc/?username=vishal-shukla11&color=0e75b6&style=flat)
 
 ![Working on Code](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
